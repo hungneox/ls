@@ -2,6 +2,11 @@
 title: "Dennis Ritchie"
 date: 2018-02-15T04:50:49+02:00
 draft: true
+categories:
+    - "posts"
+tags:
+    - "meta"
+    - "test"
 ---
 
 # Dennis Ritchie (Tác giả ngôn ngữ C)
@@ -12,6 +17,8 @@ draft: true
 * Cha đẻ của ngôn ngữ C, Hệ điều hành UNIX, Multics.
 * Đồng tác giả quyển sách "Ngôn ngữ lập trình C - The C Programming Language", Ritchie và Ken Thompson là hai người có đóng góp to lớn nhất đối với việc giúp cho Unix có khả năng ứng dụng trên nhiều nền tảng và hệ máy.
 * Được trao giải Alan Turing 1983
+* http://www.zdnet.com/article/without-dennis-ritchie-there-would-be-no-jobs/
+* https://www.wired.com/2011/10/dennis-ritchie/
 
 Sau một thời gian dài chiến đấu với bệnh. Nhà khoa học máy tính tiên phong Dennis Ritchie người sáng tạo ra ngôn ngữ lập trình C đã qua đời hôm qua ở tuổi 70.
 

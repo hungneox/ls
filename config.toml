@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "Lập trình gia"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "black-and-light"
+theme = "HugoMDL"
+MetaDataFormat = "yaml"
 
 [params]
   # Enables syntax highlighting
@@ -17,7 +18,40 @@ theme = "black-and-light"
 
   # Enables the topmenu, which pulls from categories
   topmenu = "categories"
+  author = "Hung Nguyen"
+  avatar = "/images/avatar.png"
+  background = "/images/background.jpg"
+  description = "A place to publish my incomprehensible ramblings" #meta description
+  image = "/images/avatar-192x210.png" #for frontpage profile card
+  mdlPrimary = "grey"
+  mdlSecondary = "orange"
+  website = "hungneox.com"
+  email = "hungneox@gmail.com"
+  twitter = "https://twitter.com/hungnq1989"
+  github = "https://github.com/hungnq1989/"
+  linkedin = "https://linkedin.com/in/hungnq1989/"
+  facebook = "https://facebook.com/hungnq1989/"
+  copyrightyear = "2018"
+  frontpageposts = 6 #number of post cards to display on frontpage
 
+# Fully customizable header menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Articles"
+  url = "/posts/"
+  weight = -180
+[[menu.main]]
+  name = "Projects"
+  url = "/project/"
+  weight = -160
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = "-140"
+  
 # Builds a list page for each category given
 [taxonomies]
   tag = "tags"
