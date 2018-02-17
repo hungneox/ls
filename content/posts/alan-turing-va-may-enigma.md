@@ -1,13 +1,10 @@
 ---
-title: "Alan Turing"
+title: "Alan Turing và máy Enigma"
 description: "Alan Turing, một con người, một tính cách và một số phận"
 date: 2018-02-15T11:07:50+02:00
-draft: true
+draft: false
 categories:
     - "posts"
-tags:
-    - "meta"
-    - "test"
 ---
 
 # Alan Turing, một con người, một tính cách và một số phận
