@@ -13,7 +13,7 @@ Alan Turing sinh ngày 23/6/1912 tại London, ông là một trong những nhà
 
 Và bởi vì luật pháp Anh lúc bây giờ không chấp nhận người đồng tính cho nên ông bị buộc hoặc phải tiêm hormone nữ (estrogen) hoặc là phải ngồi tù. Phải nói thêm là y học thời bây giờ tin rằng có thể điều chỉnh giới tính của con người bằng cách tiêm estrogen, và thời đó người ta xem đồng tính luyến ái là một bệnh cần được chữa trị và là một tội danh được xác định trong luật pháp Anh.
 
-Tác dụng phụ của việc này khiến ngực ông phát triển như phụ nữ và khiến ông cảm thấy bị làm nhục, do vậy ông đã ăn một quả táo có tẩm cyanure để tự sát vào ngày 7 tháng 6 năm 1954. Mãi đến tận năm 2009, tức là 55 sau ngày ông mất, thủ tướng Anh Golden Brown mới thay mặt chính phủ Anh xin lỗi Alan Turing vì đã đối xử một cách không nhân đạo với nhà khoa học này. Tên ông cũng đã được đặt cho giải tưởng thường niên của Hiệp hội Khoa học máy tính Hoa Kỳ cho các cá nhân và tập thể có đóng góp quan trọng cho nghành khoa học máy tính từ năm 1966.
+Tác dụng phụ của việc này khiến ngực ông phát triển như phụ nữ và khiến ông cảm thấy bị làm nhục, do vậy ông đã ăn một quả táo có tẩm cyanure để tự sát vào ngày 7 tháng 6 năm 1954. Mãi đến tận năm 2009, tức là 55 năm sau ngày ông mất, thủ tướng Anh Golden Brown mới thay mặt chính phủ Anh xin lỗi Alan Turing vì đã đối xử một cách không nhân đạo với nhà khoa học này. Tên ông cũng đã được đặt cho giải tưởng thường niên của Hiệp hội Khoa học máy tính Hoa Kỳ cho các cá nhân và tập thể có đóng góp quan trọng cho nghành khoa học máy tính từ năm 1966.
 
 # Giải mã máy Enigma và phát minh ra máy tính Bombe
 
